@@ -90,4 +90,4 @@ async def voice_time(ctx):
     conn.close()
 
 bot.voice_data = {}
-bot.run('Bot Key')
+bot.run('bot key')
